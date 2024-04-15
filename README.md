@@ -1,2 +1,2 @@
 # React-Day23
-Shopping kart task
+Shopping Cart task
